@@ -1,6 +1,7 @@
 function sortBy(arr, str = 'Asc') {
   if (str === 'Asc') {
     arr.sort((a, b) => a - b);
+    
   } else if (str === 'Desc') {
     arr.sort((a, b) => b - a);
   }
