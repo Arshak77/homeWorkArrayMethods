@@ -11,4 +11,5 @@ const users = [
     lang: "ENG",
     },
     ];
+    
     console.log (getUserNames(users)); 
