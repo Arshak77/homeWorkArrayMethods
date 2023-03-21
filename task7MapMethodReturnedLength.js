@@ -13,3 +13,4 @@ const users = [
     ];
     
     console.log (getUserNames(users)); 
+    
